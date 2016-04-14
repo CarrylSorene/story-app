@@ -8,4 +8,7 @@
   },
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "socket.io": "^1.4.5"
+  }
 }
